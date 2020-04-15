@@ -1,0 +1,5 @@
+com\framework\test\CRM_HomeTest.class
+com\framework\test\HomePageTest.class
+com\framework\test\LoginTest.class
+GoogleHomePageTitle.class
+com\framework\test\TransactionRoomTest.class

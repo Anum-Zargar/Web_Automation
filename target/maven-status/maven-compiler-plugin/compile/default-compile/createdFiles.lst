@@ -1,0 +1,13 @@
+com\framework\page\Crm_AcctSettingPage.class
+com\framework\page\HomePage.class
+com\framework\general\WaitLib$1.class
+com\framework\page\LoginPage.class
+com\framework\general\Base.class
+com\framework\page\Crm_HomePage.class
+com\framework\util\TestUtil.class
+com\framework\page\RefPage.class
+com\framework\general\WaitLib.class
+com\framework\util\WebEventListener.class
+com\framework\page\TransactionRoomPage.class
+com\framework\general\ScreenshotLib.class
+com\framework\page\Crm_ContactPage.class

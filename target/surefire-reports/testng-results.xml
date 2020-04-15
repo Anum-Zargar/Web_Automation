@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="67911" started-at="2020-04-14T21:15:45Z" finished-at="2020-04-14T21:16:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="67911" started-at="2020-04-14T21:15:45Z" finished-at="2020-04-14T21:16:52Z">
+      <class name="com.framework.test.DashBoardTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.framework.test.DashBoardTest@1324409e]" name="setup" is-config="true" duration-ms="25540" started-at="2020-04-14T17:15:45Z" finished-at="2020-04-14T17:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="scroll()[pri:1, instance:com.framework.test.DashBoardTest@1324409e]" name="scroll" duration-ms="7118" started-at="2020-04-14T17:16:10Z" finished-at="2020-04-14T17:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.test.DashBoardTest@1324409e]" name="tearDown" is-config="true" duration-ms="2520" started-at="2020-04-14T17:16:17Z" finished-at="2020-04-14T17:16:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.framework.test.DashBoardTest@1324409e]" name="setup" is-config="true" duration-ms="19759" started-at="2020-04-14T17:16:20Z" finished-at="2020-04-14T17:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickonBrokerDashboard()[pri:2, instance:com.framework.test.DashBoardTest@1324409e]" name="clickonBrokerDashboard" duration-ms="11654" started-at="2020-04-14T17:16:40Z" finished-at="2020-04-14T17:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonBrokerDashboard -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.test.DashBoardTest@1324409e]" name="tearDown" is-config="true" duration-ms="1233" started-at="2020-04-14T17:16:51Z" finished-at="2020-04-14T17:16:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.test.DashBoardTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
